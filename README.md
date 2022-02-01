@@ -1,2 +1,2 @@
-# react-tutorial-1-with-hooks
+# react-tutorial-1
 Created with CodeSandbox
